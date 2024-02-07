@@ -1,3 +1,6 @@
+# sqlite files
+/database
+
 # compiled output
 /dist
 /node_modules
